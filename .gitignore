@@ -1,0 +1,12 @@
+# Repo públic: només README.md i /docs/ es publiquen.
+# La resta del projecte (web, bot, openspec, assets...) queda fora de git pel moment.
+/*
+!/.gitignore
+!/README.md
+!/docs/
+
+# Secrets i temporals (per si algun dia s'inclou cap carpeta)
+.env
+state/
+__pycache__/
+.opencode/node_modules/
