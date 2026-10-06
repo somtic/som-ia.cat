@@ -30,6 +30,8 @@ la nostra manera de fer.
 
 ## Com s'entra
 
-1. Uneix-te al grup de Telegram de Som-IA.cat i presenta't.
-2. Omple el formulari de nouvingut (enllaç al grup fixat).
-3. Un membre de l'equip et dona la benvinguda i et presenta.
+1. Uneix-te al grup de Telegram de Som-IA.cat i demana entrar.
+2. El bot `@somtic_bot` et farà un qüestionari de presentació per privat, amb
+   respostes per botons (vegeu el [qüestionari d'entrada](questionari-entrada.md)).
+3. Amb el qüestionari complet, l'entrada s'aprova automàticament i un membre de
+   l'equip et dona la benvinguda.
